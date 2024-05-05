@@ -13,8 +13,8 @@
 
 ### 📁 Experiences
 `Club Officer & Founder` of KanghwaSisters (2024.03 - )  
-👉 [To Kanghwa Sisters GitHub](https://github.com/KanghwaSisters) lang : `english`, `kor`  
-👉 [To Kanghwa Sisters Pages](https://kanghwasisters.github.io/) lang : `kor`
+👉 [KanghwaSisters GitHub](https://github.com/KanghwaSisters) lang : `eng`, `kor`  
+👉 [KanghwaSisters Pages](https://kanghwasisters.github.io/) lang : `kor`
 
 
 
