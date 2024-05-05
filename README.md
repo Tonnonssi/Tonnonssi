@@ -12,8 +12,9 @@
 - Reinforcement Learning, Deep Learning, and Machine Learning
 
 ## 💻 Experiences
-2024.03 -  
-@ [Kanghwa Sisters](https://github.com/KanghwaSisters)
-- Club Officer & Founder
+2024.03 - 
+`Club Officer & Founder of KanghwaSisters`
+
+
 
 
