@@ -12,7 +12,7 @@
 - Reinforcement Learning, Deep Learning, and Machine Learning
 
 ### 📁 Experiences
-`Club Officer & Founder` of KanghwaSisters (2024.03 - )  
+`Club Officer & Founder` of KanghwaSisters : RL (2024.03 - )  
   
 - [KanghwaSisters GitHub](https://github.com/KanghwaSisters)    lang : `eng`, `kor`  
 - [KanghwaSisters Pages](https://kanghwasisters.github.io/)     lang : `kor`
