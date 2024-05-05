@@ -1,9 +1,19 @@
-### Hi there I'm Jimin Lee 👋
+### Hi there, I'm Jimin Lee 👋
+
+📌 [LinkedIn](https://www.linkedin.com/in/jimin-lee-b8a828268/)
+📨 [tonnonssi@gmail.com](tonnonssi@gmail.com)
+
+### Main Language
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
 
 ## Study
 
 - Double Major in Statistics and Computational Science at Ewha Womans University, South Korea
 - Reinforcement Learning, Deep Learning, and Machine Learning
 
-## Computer Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+## 💻 Experiences
+2024.03 -  
+@[Kanghwa Sisters](https://github.com/KanghwaSisters)
+- Club Officer & Founder
+
+
