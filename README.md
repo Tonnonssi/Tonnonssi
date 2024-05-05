@@ -12,9 +12,9 @@
 - Reinforcement Learning, Deep Learning, and Machine Learning
 
 ## 💻 Experiences
-2024.03 -  
-`Club Officer & Founder` of KanghwaSisters  
-👉 [Kanghwa Sisters](https://github.com/KanghwaSisters)
+`Club Officer & Founder` of KanghwaSisters (2024.03 - )  
+👉 [To Kanghwa Sisters GitHub](https://github.com/KanghwaSisters) lang : `english`, `kor`
+👉 [To Kanghwa Sisters Pages](https://kanghwasisters.github.io/) lang : `kor`
 
 
 
