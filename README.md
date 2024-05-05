@@ -3,17 +3,17 @@
 📌 [LinkedIn](https://www.linkedin.com/in/jimin-lee-b8a828268/)  
 📨 [tonnonssi@gmail.com](tonnonssi@gmail.com)
 
-## Main Language
+### 💻 Main Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
 
-## Study
+### 📚 Study
 
 - Double Major in Statistics and Computational Science at Ewha Womans University, South Korea
 - Reinforcement Learning, Deep Learning, and Machine Learning
 
-## 💻 Experiences
+### 📁 Experiences
 `Club Officer & Founder` of KanghwaSisters (2024.03 - )  
-👉 [To Kanghwa Sisters GitHub](https://github.com/KanghwaSisters) lang : `english`, `kor`
+👉 [To Kanghwa Sisters GitHub](https://github.com/KanghwaSisters) lang : `english`, `kor`  
 👉 [To Kanghwa Sisters Pages](https://kanghwasisters.github.io/) lang : `kor`
 
 
