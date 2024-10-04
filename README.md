@@ -3,6 +3,12 @@
 📌 [LinkedIn](https://www.linkedin.com/in/jimin-lee-b8a828268/)  
 📨 [tonnonssi@gmail.com](mailto:tonnonssi@gmail.com)
 
+### 📄 Blog with CV
+[https://tonnonssi.github.io/](https://tonnonssi.github.io/)  
+- 자기소개
+- 프로젝트 정리
+- 공부한 글
+
 ### 💻 Main Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 
