@@ -4,14 +4,11 @@
 📨 [tonnonssi@gmail.com](mailto:tonnonssi@gmail.com)
 
 ### 📄 Blog with CV
-<a href="https://tonnonssi.github.io/" target="_blank" style="display: block; border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; cursor: pointer; text-decoration: none; color: black;">
-    <!-- Row number with larger font and gray color -->
-    <span style="display: block; font-weight: bold; font-size: 24px; color: gray;">CV</span>
-    <!-- Title -->
-    <span style="display: block; font-weight: bold; margin: 0; font-size: 18px; color: black;">Tonnonssi(Jimin Lee)</span>
-    <!-- Description -->
-    <span style="display: block; margin: 0; color: black;">Projects & Articles & Self Introduction & Study Log</span>
-  </a>
+<a href="https://tonnonssi.github.io/" target="_blank">
+  <strong style="font-size: 24px; color: gray;">CV</strong><br>
+  <strong style="font-size: 18px; color: black;">Tonnonssi (Jimin Lee)</strong><br>
+  <span style="color: black;">Projects & Articles & Self Introduction & Study Log</span>
+</a>
 
 
 ### 💻 Main Language
