@@ -4,12 +4,16 @@
 📨 [tonnonssi@gmail.com](mailto:tonnonssi@gmail.com)
 
 ### 📄 Blog with CV
-<a href="https://tonnonssi.github.io/" target="_blank">
-  <strong style="font-size: 24px; color: gray;">CV</strong><br>
-  <strong style="font-size: 18px; color: black;">Tonnonssi (Jimin Lee)</strong><br>
-  <span style="color: black;">Projects & Articles & Self Introduction & Study Log</span>
-</a>
-
+<blockquote style="border: 1px solid #ddd; padding: 10px;">
+  <a href="https://tonnonssi.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
+    <!-- Row number with larger font and gray color -->
+    <strong style="font-size: 24px; color: gray;">CV</strong><br>
+    <!-- Title -->
+    <strong style="font-size: 18px; color: black;">Tonnonssi (Jimin Lee)</strong><br>
+    <!-- Description -->
+    <span style="color: black;">Projects & Articles & Self Introduction & Study Log</span>
+  </a>
+</blockquote>
 
 ### 💻 Main Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
